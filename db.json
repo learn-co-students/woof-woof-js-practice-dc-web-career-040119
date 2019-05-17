@@ -9,13 +9,13 @@
     {
       "id": 2,
       "name": "Nugget",
-      "isGoodDog": false,
+      "isGoodDog": true,
       "image": "https://www.guidedogs.org/wp-content/uploads/2018/01/Mobile.jpg"
     },
     {
       "id": 3,
       "name": "Skittles",
-      "isGoodDog": true,
+      "isGoodDog": false,
       "image": "https://www.cesarsway.com/sites/newcesarsway/files/styles/large_article_preview/public/Common-dog-behaviors-explained.jpg?itok=FSzwbBoi"
     },
     {
@@ -27,13 +27,13 @@
     {
       "id": 5,
       "name": "Lucipher",
-      "isGoodDog": false,
+      "isGoodDog": true,
       "image": "https://cdn.shopify.com/s/files/1/1324/6367/collections/Why_all_dogs_love_us_close_up_large.jpg?v=1487160259"
     },
     {
       "id": 6,
       "name": "Snooper Pooper",
-      "isGoodDog": false,
+      "isGoodDog": true,
       "image": "https://static01.nyt.com/images/2018/02/11/realestate/11dogs-topbreeds-Chihuahua/11dogs-topbreeds-Chihuahua-master495.jpg"
     },
     {
